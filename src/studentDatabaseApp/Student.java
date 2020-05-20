@@ -1,6 +1,7 @@
 package studentDatabaseApp;
 
 import java.util.Scanner;
+//link --> https://www.youtube.com/watch?v=GOGt7PACl10 : Student Management System
 
 public class Student {
 	private String firstName;
